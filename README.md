@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=0:000000&center=true&vCenter=true&width=680&lines=Spring+Boot+%7C+Angular+17+%7C+Microservices+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=0:000000&center=true&vCenter=true&width=680&lines=Spring+Boot+%7C+Angular+%7C+Microservices+%F0%9F%9A%80" />
 </a>
 
 <br/><br/>
@@ -13,8 +13,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmed--mogoda-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-mogoda)
 &nbsp;
 [![Email](https://img.shields.io/badge/Gmail-ahmedragabmogouda-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedragabmogouda@gmail.com)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-e8d5a3?style=for-the-badge&logo=firefoxbrowser&logoColor=black)](https://secure-funds-transfer-production.up.railway.app)
 &nbsp;
 [![Profile Views](https://komarev.com/ghpvc/?username=AhmedRagabMogoda&style=for-the-badge&color=e8d5a3&label=PROFILE+VIEWS&labelColor=0d1117)](https://github.com/AhmedRagabMogoda)
 
@@ -51,9 +49,9 @@ public class AhmedRagabMogoda implements FullStackDeveloper {
     // What I work with daily
     private final String[] backend  = { "Java 17", "Spring Boot", "Spring Security",
                                          "Spring WebFlux", "Apache Kafka", "Microservices" };
-    private final String[] frontend = { "Angular 17", "TypeScript", "RxJS",
+    private final String[] frontend = { "Angular 17", "TypeScript",
                                          "Angular Material", "HTML5", "CSS3 / SCSS" };
-    private final String[] devops   = { "Docker", "Nginx", "Railway", "CI/CD", "Linux" };
+    private final String[] devops   = { "Docker", "CI/CD", "Linux" };
     private final String[] data     = { "PostgreSQL", "Redis", "SQL Server", "Flyway" };
 
     // What I believe in
@@ -66,7 +64,7 @@ public class AhmedRagabMogoda implements FullStackDeveloper {
     };
 
     private final String currentGoal =
-        "Senior backend or full-stack role in a team that ships things that matter.";
+        "junior backend or full-stack role in a team that ships things that matter.";
 }
 ```
 
