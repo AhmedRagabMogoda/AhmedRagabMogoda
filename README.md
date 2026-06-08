@@ -47,8 +47,9 @@ public class AhmedRagabMogoda implements FullStackDeveloper {
     private final String degree   = "B.Sc. Eng — Grade: Very Good | Graduation Project: Excellent";
 
     // What I work with daily
-    private final String[] backend  = { "Java 17", "Spring Boot", "Spring Security",
-                                         "Spring WebFlux", "Apache Kafka", "Microservices" };
+    private final String[] Programming languages = { "Java", "C" , "C++" }, 
+    private final String[] backend  = { "Spring Boot", "Spring Security", "Spring Data JPA / Hibernate",
+                                         "Spring WebFlux", "RESTful APIs", "Apache Kafka", "Microservices" };
     private final String[] frontend = { "Angular 17", "TypeScript", "HTML5", "CSS3 / SCSS" };
     private final String[] devops   = { "Docker", "CI/CD", "Linux" };
     private final String[] data     = { "PostgreSQL", "Redis", "SQL Server", "Flyway" };
@@ -91,8 +92,6 @@ public class AhmedRagabMogoda implements FullStackDeveloper {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3%20%2F%20SCSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
-![Angular Material](https://img.shields.io/badge/Angular_Material-757575?style=for-the-badge&logo=materialdesign&logoColor=white)
 
 ### 🗄️ Databases & Caching
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -102,8 +101,6 @@ public class AhmedRagabMogoda implements FullStackDeveloper {
 
 ### 🐳 DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -200,7 +197,7 @@ public class AhmedRagabMogoda implements FullStackDeveloper {
 
 <br/>
 
-I am actively looking for **backend or full-stack developer roles**.
+I am actively looking for **Software Engineer or Backend Developer roles**.
 If you are building something that matters and need an engineer who ships — reach out.
 
 <br/>
