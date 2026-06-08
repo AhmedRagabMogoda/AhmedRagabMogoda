@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:1a1a1a&height=240&section=header&text=Ahmed%20Ragab%20Mogoda&fontSize=52&fontColor=e8d5a3&fontAlignY=40&desc=Java%20Full%20Stack%20Developer&descSize=18&descAlignY=60&descColor=9db8d4&animation=fadeIn&stroke=e8d5a3&strokeWidth=1" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:1a1a1a&height=240&section=header&text=Ahmed%20Ragab%20Mogoda&fontSize=52&fontColor=e8d5a3&fontAlignY=40&desc=Software%20Engineer%20|%20Java%20Backend%20Developer&descSize=18&descAlignY=60&descColor=9db8d4&animation=fadeIn&stroke=e8d5a3&strokeWidth=1" width="100%" />
 
 <br/>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=0:000000&center=true&vCenter=true&width=680&lines=Spring+Boot+%7C+Angular+%7C+Microservices+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=0:000000&center=true&vCenter=true&width=680&lines=Java+%7C+Spring+Boot+%7C+Microservices+%F0%9F%9A%80" />
 </a>
 
 <br/><br/>
@@ -41,7 +41,7 @@
 public class AhmedRagabMogoda implements FullStackDeveloper {
 
     private final String name     = "Ahmed Ragab Mogoda";
-    private final String role     = "Java Full Stack Developer";
+    private final String role     = "Software Engineer | Java Backend Developer";
     private final String location = "Egypt 🇪🇬";
     private final String email    = "ahmedragabmogouda@gmail.com";
     private final String degree   = "B.Sc. Eng — Grade: Very Good | Graduation Project: Excellent";
@@ -49,8 +49,7 @@ public class AhmedRagabMogoda implements FullStackDeveloper {
     // What I work with daily
     private final String[] backend  = { "Java 17", "Spring Boot", "Spring Security",
                                          "Spring WebFlux", "Apache Kafka", "Microservices" };
-    private final String[] frontend = { "Angular 17", "TypeScript",
-                                         "Angular Material", "HTML5", "CSS3 / SCSS" };
+    private final String[] frontend = { "Angular 17", "TypeScript", "HTML5", "CSS3 / SCSS" };
     private final String[] devops   = { "Docker", "CI/CD", "Linux" };
     private final String[] data     = { "PostgreSQL", "Redis", "SQL Server", "Flyway" };
 
@@ -64,7 +63,7 @@ public class AhmedRagabMogoda implements FullStackDeveloper {
     };
 
     private final String currentGoal =
-        "junior backend or full-stack role in a team that ships things that matter.";
+        "Junior Software Engineer or Backend Developer role in a team that ships things that matter.";
 }
 ```
 
@@ -142,7 +141,7 @@ public class AhmedRagabMogoda implements FullStackDeveloper {
 
 <div align="center">
 
-### 🟢 Secure Funds Transfer &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/AhmedRagabMogoda/secure-funds-transfer) &nbsp; [![Live](https://img.shields.io/badge/%E2%96%B6%20Live_Demo-Railway-success?style=flat-square&logo=railway)](https://secure-funds-transfer-production.up.railway.app)
+### 🟢 Secure Funds Transfer &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/AhmedRagabMogoda/secure-funds-transfer)
 
 </div>
 
