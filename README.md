@@ -34,7 +34,7 @@
 
 ```java
 /**
- * Java Full Stack Developer
+ *  Software Engineer
  * Beni Suef University — B.Sc. Communications & Electronics Engineering (2025)
  */
 @Component
